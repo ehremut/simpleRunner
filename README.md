@@ -1,0 +1,2 @@
+# simpleRunner
+swift program
